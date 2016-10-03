@@ -1,0 +1,4 @@
+JOptionPane.showMessageDialog(null,"HOLA MUNDO","BIENVENIDA,"JOptionPane.INFORMATION_MESSAGE);
+
+//INICILIZAR Git branch "nombre del archivo sin espacio".
+//ABRIR O CHECAR Git checkout "nombre del archivo sin espacio".
